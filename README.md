@@ -1,2 +1,2 @@
 # 5City-Chat
-Chat z 5city 2.0
+Chat przypominający ten z 5city 2.0
